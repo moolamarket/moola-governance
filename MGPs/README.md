@@ -1,3 +1,5 @@
+# MGP template
+
 ```
 ---
 mgp: <to be assigned>
@@ -11,7 +13,7 @@ date-executed: [if executed] <date created on, in ISO 8601 (yyyy-mm-dd) format>
 ```
 
 # Overview
-MCP - Moola Governance Proposal
+MGP - Moola Governance Proposal
 
 Pick a four digit number subsequent to the latest proposal raised and name your file.
 ## Status:
@@ -20,8 +22,8 @@ Pick a four digit number subsequent to the latest proposal raised and name your 
 - MAINNET = after deployed to mainnet
 - REVERTED = after revert transaction deployed
 
-Describe the issue that motivates this MCP. It should indicate all parameters that are being changed and why doing so is important.
-Explain what benefits the enhancement this change will bring. To the extent possible, enumerate use cases affected by this MCP.
+Describe the issue that motivates this MGP. It should indicate all parameters that are being changed and why doing so is important.
+Explain what benefits the enhancement this change will bring. To the extent possible, enumerate use cases affected by this MGP.
 
 # Proposed changes
 1. Description of transaction 1
@@ -30,7 +32,7 @@ Explain what benefits the enhancement this change will bring. To the extent poss
 - Value: How much of which asset is being sent, and why?
 
 # Verification
-An explanation of how voters can verify that this CGP does what it intends to do. Can be left as “TODO” until the proposal is made. Include things like CLI commands to run and pointers to code.
+An explanation of how voters can verify that this CGP does what it intends to do. Can be left as “TODO” until the proposal is made.
 
 # Risks
 Highlight any risks and concerns that may affect consensus, proof-of-stake, governance, protocol economics, the stability protocol, security, and privacy.
