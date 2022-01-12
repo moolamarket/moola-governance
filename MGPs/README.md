@@ -16,6 +16,7 @@ date-executed: [if executed] <date created on, in ISO 8601 (yyyy-mm-dd) format>
 MGP - Moola Governance Proposal
 
 Pick a four digit number subsequent to the latest proposal raised and name your file.
+
 ## Status:
 - PROPOSAL = proposed but not deployed to testnet yet
 - TESTNET = after deployed to testnet
