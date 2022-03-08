@@ -40,7 +40,7 @@ Explain what benefits the enhancement this change will bring. To the extent poss
 
 # Verification
 
-An explanation of how voters can verify that this CGP does what it intends to do. Can be left as “TODO” until the proposal is made.
+An explanation of how voters can verify that this MGP does what it intends to do. Can be left as “TODO” until the proposal is made.
 
 # Risks
 
